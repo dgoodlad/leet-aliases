@@ -1,0 +1,4 @@
+alias node="echo lolnode; node $1"
+alias php="echo 'goto php'; php $1"
+
+# vim: ft=sh
